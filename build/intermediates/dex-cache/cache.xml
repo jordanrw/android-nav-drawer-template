@@ -3,39 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/Users/Jordan/Developer/Android/android-nav-drawer-template/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="fe2978643a4a5345732190d00fe08bd944b5eeee">
-        <dex dex="/Users/Jordan/Developer/Android/android-nav-drawer-template/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5524e52561a35b1f2b91f07337474262dc49be59/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Jordan/Developer/CS-3714/NavDrawer/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d6f7dab65b40ed89708896089ad1436474d73f30">
-        <dex dex="/Users/Jordan/Developer/CS-3714/NavDrawer/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_16f25843d05f862bbbfcd0f48d05c96dc7ebc028/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Jordan/Developer/CS-3714/NavDrawer/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
-        <dex dex="/Users/Jordan/Developer/CS-3714/NavDrawer/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_61ce57dbe8a8eac8e3ef01d83004831bacea3fb0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/Jordan/Developer/Android/android-nav-drawer-template/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
         <dex dex="/Users/Jordan/Developer/Android/android-nav-drawer-template/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bfd2263b5a8d8b694d598f8b554ad727e172c255/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jordan/Developer/Android/android-nav-drawer-template/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="72243d04ff423ccd06f4ea2a964fbb201136aa28">
+        <dex dex="/Users/Jordan/Developer/Android/android-nav-drawer-template/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5524e52561a35b1f2b91f07337474262dc49be59/classes.dex" />
     </item>
 
 </items>

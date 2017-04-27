@@ -3,14 +3,15 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.jordanroywhite.navdrawer.Fragments.SuggestionsFragment">
+    tools:context="com.jordanroywhite.navdrawer.com.macpatrons.mossartscenterpatrons.ShowFragment">
 
     <TextView
-        android:id="@+id/suggestionsTitle"
+        android:id="@+id/showTitle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Suggestions"
-        android:layout_gravity="center"
-        android:padding="10dp"/>
+        android:layout_gravity="top"
+        android:padding="10dp"
+        android:text="Show Page"
+        android:textAppearance="@android:style/TextAppearance.Material.Display1" />
 
 </FrameLayout>

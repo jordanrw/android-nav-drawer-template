@@ -11,6 +11,13 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 
+import com.jordanroywhite.navdrawer.Fragments.CalendarFragment;
+import com.jordanroywhite.navdrawer.Fragments.HistoryFragment;
+import com.jordanroywhite.navdrawer.Fragments.HomeFragment;
+import com.jordanroywhite.navdrawer.Fragments.SettingsFragment;
+import com.jordanroywhite.navdrawer.Fragments.SuggestionsFragment;
+import com.jordanroywhite.navdrawer.Fragments.TicketsFragment;
+
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
 
